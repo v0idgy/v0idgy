@@ -25,7 +25,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<!--
+
 
 ### Languages and Tools:
 
@@ -91,7 +91,7 @@
 <!--END_SECTION:activity-->
 
 </details>
--->
+
 
 <details>
   <summary>:zap: Github Stats</summary>
