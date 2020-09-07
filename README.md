@@ -64,25 +64,25 @@
 
 <!-- YOUTUBE:START -->
 <!-- [FREE Icons! How to use Bootstrap Icons v1.0.0 | Bootstrap 5 (2020)](https://www.youtube.com/watch?v=DPnJldwv22o)
-- [0 to 70K SUBSCRIBERS in 1 YEAR | YouTube 2020: The strategies that helped me to grow on YouTube](https://www.youtube.com/watch?v=oNGZ7h5LR-o)
-- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
-- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
+<!--- [0 to 70K SUBSCRIBERS in 1 YEAR | YouTube 2020: The strategies that helped me to grow on YouTube](https://www.youtube.com/watch?v=oNGZ7h5LR-o)
+<!--- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
+<!--- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
+<!--- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
 <!-- YOUTUBE:END -->
 
 <!--➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
-<!-->
+<!--
 <!-- ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+<!--- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+<!--- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+<!--- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+<!--- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!--- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 <!-->
 ➡️ [more blog posts...](https://codestackr.com)
