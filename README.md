@@ -26,6 +26,14 @@
 
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="v0idgy" src="https://github-readme-stats.codestackr.vercel.app/api?username=v0idgy&show_icons=true&hide_border=true" />
+
+</details>
+
+
 
 ### Languages and Tools:
 
@@ -96,13 +104,6 @@
 </details>
 -->
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="v0idgy" src="https://github-readme-stats.codestackr.vercel.app/api?username=v0idgy&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://www.v0idgy.com
 [twitter]: https://twitter.com/v0idgy
