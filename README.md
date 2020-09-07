@@ -62,6 +62,6 @@
 [instagram]: https://instagram.com/v0idgy
 [linkedin]: https://linkedin.com/in/v0idgy
 [webdevplaylist]: https://www.youtube.com/channel/UCZ5QUPzA8rdny7h4TXSAxsw?view_as=subscriber
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[jsplaylist]: https://www.youtube.com/channel/UCZ5QUPzA8rdny7h4TXSAxsw?view_as=subscriber
+[cssplaylist]: https://www.youtube.com/channel/UCZ5QUPzA8rdny7h4TXSAxsw?view_as=subscriber
+[reactplaylist]: https://www.youtube.com/channel/UCZ5QUPzA8rdny7h4TXSAxsw?view_as=subscriber
