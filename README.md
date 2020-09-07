@@ -112,7 +112,7 @@
 
 [website]: https://www.v0idgy.com
 [twitter]: https://twitter.com/v0idgy
-[youtube]: https://youtube.com/v0idgy
+[youtube]: https://www.youtube.com/channel/UCZ5QUPzA8rdny7h4TXSAxsw/videos?view_as=subscriber
 [instagram]: https://instagram.com/v0idgy
 [linkedin]: https://linkedin.com/in/v0idgy
 [webdevplaylist]: https://www.youtube.com/channel/UCZ5QUPzA8rdny7h4TXSAxsw?view_as=subscriber
