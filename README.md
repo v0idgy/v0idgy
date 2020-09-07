@@ -71,7 +71,7 @@
 -->
 
 
-[website]: https://www.v0idgy.com
+[website]: #
 [twitter]: https://twitter.com/v0idgy
 [youtube]: https://www.youtube.com/channel/UCZ5QUPzA8rdny7h4TXSAxsw/videos?view_as=subscriber
 [instagram]: https://instagram.com/v0idgy
