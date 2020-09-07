@@ -25,6 +25,7 @@
 [<img align="left" alt="v0idgy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br>
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -59,7 +60,7 @@
 <!--
 ---
 
-<!--> ### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- [FREE Icons! How to use Bootstrap Icons v1.0.0 | Bootstrap 5 (2020)](https://www.youtube.com/watch?v=DPnJldwv22o)
