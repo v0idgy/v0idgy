@@ -105,7 +105,7 @@
 [youtube]: https://youtube.com/v0idgy
 [instagram]: https://instagram.com/v0idgy
 [linkedin]: https://linkedin.com/in/v0idgy
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplaylist]: https://www.youtube.com/channel/UCZ5QUPzA8rdny7h4TXSAxsw?view_as=subscriber
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
