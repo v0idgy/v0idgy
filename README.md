@@ -2,6 +2,8 @@
 
 <!--[![Website](https://img.shields.io/website?label=v0idgy.com&style=for-the-badge&url=https%3A%2F%2Fv0idgy.com)](https://v0idgy.com)-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/v0idgy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/v0idgy)
+[![LinkedIn Connect](https://img.shields.io/twitter/follow/v0idgy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://linkedin.com/in/v0idgy)
+
 
 [![HitCount](http://hits.dwyl.com/v0idgy/v0idgy.svg)](http://hits.dwyl.com/v0idgy/v0idgy)
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
