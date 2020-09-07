@@ -9,10 +9,10 @@
 
 ## I'm a Programmer, Web Developer, and Teacher!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on a Competative Programming.
+- 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate with other programmers.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Getting best output from Quarentine.
 - ⚡ Fun fact: I love to draw and play guitar / drums.
 
 ### Spotify Playing 🎧
