@@ -10,7 +10,7 @@
 
 ## I'm a Programmer, Web Developer, and Teacher!
 
-- 🔭 I’m currently working on a Competitive Programming.
+- 🔭 I’m currently working on Competitive Programming.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate with other programmers.
 - 🥅 2020 Goals: Getting best output from Quarentine.
