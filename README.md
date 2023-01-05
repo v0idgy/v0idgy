@@ -67,4 +67,3 @@
 [reactplaylist]: https://www.youtube.com/channel/UCZ5QUPzA8rdny7h4TXSAxsw?view_as=subscriber
 
 
-<img src="https://raw.githubusercontent.com/rutkuli/rutkuli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
