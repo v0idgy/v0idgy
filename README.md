@@ -13,9 +13,6 @@
 
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate with other programmers.
-- ⚡ Fun fact: I love to draw and play guitar / drums.
-
-
 
 ### Connect with me:
 
