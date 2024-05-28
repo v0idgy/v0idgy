@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 <br>
 
-## I'm a Programmer, Web Developer, and Teacher!
+## I'm a Programmer,Teacher and Explorer!
 
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate with other programmers.
