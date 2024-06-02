@@ -9,10 +9,10 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 <br>
 
-## I'm a Programmer,Teacher and Explorer!
+## I'm a Programmer, Developer, Teacher and Explorer!
 
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate with other programmers.
+- 🌱 Currently learning IOS Development.
+- 👯 Looking to collaborate with other programmers.
 
 ### Connect with me:
 
