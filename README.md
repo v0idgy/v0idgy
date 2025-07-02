@@ -18,7 +18,7 @@ My professional journey has equipped me with a diverse skill set, enabling me to
 
 * **DevOps:** From source code management to automated deployments, I'm adept at orchestrating seamless and efficient software delivery pipelines. Think Docker, Kubernetes, Jenkins, and GitHub Actions – I've got them humming!
 * **AI/ML & Data Science:** I love transforming raw data into actionable insights and intelligent systems. This includes everything from predictive modeling to developing AI assistants and recommender systems.
-* **Technical Training & Mentorship:** I've had the privilege of delivering expert-level training sessions on the complete DevOps lifecycle and AI tools, guiding hundreds of students toward successful outcomes. [cite_start]It's incredibly rewarding to see that "aha!" moment.
+* **Technical Training & Mentorship:** I've had the privilege of delivering expert-level training sessions on the complete DevOps lifecycle and AI tools, guiding hundreds of students toward successful outcomes. It's incredibly rewarding to see that "aha!" moment.
 
 
 ### Connect with me:
