@@ -4,7 +4,7 @@
 
 
 
-[![HitCount](http://hits.dwyl.com/v0idgy/v0idgy.svg)](http://hits.dwyl.com/v0idgy/v0idgy)
+[![HitCount](https://hits.dwyl.com/v0idgy/v0idgy.svg?style=flat)](http://hits.dwyl.com/v0idgy/v0idgy)
 <br>
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 <br>
