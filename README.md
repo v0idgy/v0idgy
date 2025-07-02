@@ -4,7 +4,8 @@
 
 
 
-[![HitCount](https://hits.dwyl.com/v0idgy/v0idgy.svg?style=flat)](http://hits.dwyl.com/v0idgy/v0idgy)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fv0idgy%2Fv0idgy.json)
+
 <br>
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 <br>
