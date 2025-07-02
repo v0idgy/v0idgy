@@ -4,16 +4,25 @@
 
 
 
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fv0idgy%2Fv0idgy.json)
-
 <br>
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 <br>
+# Gourav Yadav | DevOps, AI/ML, and Data Science Enthusiast
 
-## I'm a Programmer, Developer, Teacher and Explorer!
+Welcome to my GitHub! I'm Gourav Yadav, a highly adaptable Computer Science and Engineering graduate with a passion for building cutting-edge technical solutions. My expertise spans the full spectrum of DevOps, Artificial Intelligence/Machine Learning, and Data Science, allowing me to tackle complex challenges from ideation to deployment.
 
-- 🌱 Currently learning IOS Development.
-- 👯 Looking to collaborate with other programmers.
+I thrive on continuous learning and enjoy mentoring others, fostering an environment where innovation flourishes. With a track record of delivering comprehensive training programs and leading impactful projects, I'm always eager to contribute to forward-thinking teams.
+
+---
+
+## 🚀 What I Do
+
+My professional journey has equipped me with a diverse skill set, enabling me to work across various exciting domains:
+
+* **DevOps:** From source code management to automated deployments, I'm adept at orchestrating seamless and efficient software delivery pipelines. [cite_start]Think Docker, Kubernetes, Jenkins, and GitHub Actions – I've got them humming! [cite: 16, 21]
+* **AI/ML & Data Science:** I love transforming raw data into actionable insights and intelligent systems. [cite_start]This includes everything from predictive modeling to developing AI assistants and recommender systems. [cite: 5, 34, 39, 44]
+* **Technical Training & Mentorship:** I've had the privilege of delivering expert-level training sessions on the complete DevOps lifecycle and AI tools, guiding hundreds of students toward successful outcomes. [cite_start]It's incredibly rewarding to see that "aha!" moment. [cite: 16, 18, 22, 25]
+
 
 ### Connect with me:
 
