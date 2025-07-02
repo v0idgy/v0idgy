@@ -1,9 +1,6 @@
 ### Hi there, I'm Gourav - aka [v0idgy][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/v0idgy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/v0idgy)
-
-
-
 <br>
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 <br>
@@ -19,9 +16,9 @@ I thrive on continuous learning and enjoy mentoring others, fostering an environ
 
 My professional journey has equipped me with a diverse skill set, enabling me to work across various exciting domains:
 
-* **DevOps:** From source code management to automated deployments, I'm adept at orchestrating seamless and efficient software delivery pipelines. [cite_start]Think Docker, Kubernetes, Jenkins, and GitHub Actions – I've got them humming! [cite: 16, 21]
-* **AI/ML & Data Science:** I love transforming raw data into actionable insights and intelligent systems. [cite_start]This includes everything from predictive modeling to developing AI assistants and recommender systems. [cite: 5, 34, 39, 44]
-* **Technical Training & Mentorship:** I've had the privilege of delivering expert-level training sessions on the complete DevOps lifecycle and AI tools, guiding hundreds of students toward successful outcomes. [cite_start]It's incredibly rewarding to see that "aha!" moment. [cite: 16, 18, 22, 25]
+* **DevOps:** From source code management to automated deployments, I'm adept at orchestrating seamless and efficient software delivery pipelines. Think Docker, Kubernetes, Jenkins, and GitHub Actions – I've got them humming!
+* **AI/ML & Data Science:** I love transforming raw data into actionable insights and intelligent systems. This includes everything from predictive modeling to developing AI assistants and recommender systems.
+* **Technical Training & Mentorship:** I've had the privilege of delivering expert-level training sessions on the complete DevOps lifecycle and AI tools, guiding hundreds of students toward successful outcomes. [cite_start]It's incredibly rewarding to see that "aha!" moment.
 
 
 ### Connect with me:
@@ -66,7 +63,7 @@ My professional journey has equipped me with a diverse skill set, enabling me to
 </p>
 <br/>
 
-[website]: https://github.com/v0idgy
+[website]: http://v0idgy.link
 [twitter]: https://twitter.com/v0idgy
 [youtube]: https://www.youtube.com/channel/UCZ5QUPzA8rdny7h4TXSAxsw/videos?view_as=subscriber
 [instagram]: https://instagram.com/v0idgy
