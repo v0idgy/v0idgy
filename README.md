@@ -4,7 +4,7 @@
 <br>
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 <br>
-# Gourav Yadav | DevOps, AI/ML, and Data Science Enthusiast
+# DevOps, AI/ML, and Data Science Enthusiast
 
 Welcome to my GitHub! I'm Gourav Yadav, a highly adaptable Computer Science and Engineering graduate with a passion for building cutting-edge technical solutions. My expertise spans the full spectrum of DevOps, Artificial Intelligence/Machine Learning, and Data Science, allowing me to tackle complex challenges from ideation to deployment.
 
