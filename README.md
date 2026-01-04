@@ -1,46 +1,74 @@
-# Hi there, I'm Gourav (aka v0idgy) 👋
+# ⚡ Gourav Yadav (v0idgy) 
+### Principal AI/ML Consultant | DevOps Architect | Technical Speaker
 
 <p align="left">
-  <a href="https://v0idgy.link">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+/+ML+Consultant;DevOps+Engineer;Technical+Trainer;Bridging+the+gap+between+AI+and+Production" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&width=600&lines=Architecting+AI+at+Scale;Bridging+DevOps+%2B+Intelligence;Advanced+RAG+%26+Agentic+Systems;Turning+Notebooks+into+Production+Systems" alt="Typing SVG" />
 </p>
-
-### 🚀 Professional Summary
-I am a **Principal AI/ML Consultant** specialized in architecting and deploying production-grade intelligence. My expertise lies at the intersection of **Machine Learning Operations (MLOps)** and **Scalable Infrastructure**. I help organizations move beyond "notebook models" to robust, automated, and observable AI systems.
-
-- 🔭 **Currently focused on:** Advanced RAG (Retrieval-Augmented Generation) architectures and LLM Fine-tuning.
-- 🛠️ **Core Philosophy:** "If it’s not in production, it doesn’t exist."
-- 🏢 **Professional Experience:** AI/ML Consultant & Lead Trainer at Sierra Learning Academy.
-- 💬 **Ask me about:** MLOps, Kubernetes for AI, and LLM implementation strategies.
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🌐 Executive Summary
+As a **Technical Consultant and Engineer**, I specialize in the architecture and delivery of end-to-end AI systems. My work focuses on **MLOps maturity**, **Cloud-Native infrastructure**, and the emerging field of **Agentic Workflows**. I bridge the gap between complex data science research and stable, scalable production environments.
+
+- 🔭 **Current Focus:** Building production-grade **Multi-Agent Systems** using LangGraph and Autogen.
+- 🛠 **Architecture:** Deeply involved in **Advanced RAG (Retrieval-Augmented Generation)** with focus on semantic caching and reranking strategies.
+- 🏢 **Professional:** Leading technical training and AI consulting at **Sierra Learning Academy**.
+- 💬 **Expertise:** LLM Observability, Infrastructure as Code (OpenTofu), and Scalable Kubernetes Orchestration.
+
+---
+
+### 🛠️ Advanced Tech Stack (2026)
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Artificial Intelligence** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-orange) |
-| **Data Science** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white) |
-| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) |
-| **Deployment & Ops** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) |
+| **Generative AI & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-232F3E?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat) |
+| **MLOps & Observability** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow) ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases) ![Arize Phoenix](https://img.shields.io/badge/Arize_Phoenix-6D28D9?style=flat) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=data-version-control) |
+| **Data & Vector DBs** | ![Pinecone](https://img.shields.io/badge/Pinecone-273347?style=flat) ![Qdrant](https://img.shields.io/badge/Qdrant-DB1818?style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql) |
+| **DevOps & Cloud-Native** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes) ![OpenTofu](https://img.shields.io/badge/OpenTofu-FF4E00?style=flat&logo=terraform) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
+| **Languages & Systems** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust) |
 
 ---
 
+### 🚀 Featured Production Projects
 
-### 🤝 Connect & Collaborate
-I'm always open to discussing technical challenges, consulting opportunities, or speaking engagements.
+#### 🤖 [RAG-ZERO-HERO](https://github.com/v0idgy/RAG-ZERO-HERO)
+A complete blueprint for Production RAG. Implements advanced retrieval, evaluation with RAGAS, and deployment via FastAPI.
+*   **Tech:** LlamaIndex, Qdrant, OpenAI, Pytest.
 
-<p align="left">
-  <a href="https://v0idgy.link" target="blank"><img src="https://img.shields.io/badge/Website-v0idgy.link-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/v0idgy" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Gourav%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/v0idgy" target="blank"><img src="https://img.shields.io/badge/X-@v0idgy-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://topmate.io/v0idgy" target="blank"><img src="https://img.shields.io/badge/Book%201:1-Topmate-FF5733?style=for-the-badge&logo=topmate&logoColor=white" /></a>
+#### 🏗️ [local-rag-system](https://github.com/v0idgy/local-rag-system)
+Privacy-first RAG implementation running entirely on-premise for enterprise security compliance.
+*   **Tech:** Ollama, ChromaDB, LangChain, Streamlit.
+
+#### 🛡️ [Kube_Practice](https://github.com/v0idgy/Kube_Practice)
+A curated collection of production-grade Kubernetes manifests, including CI/CD pipelines and monitoring stacks (Prometheus/Grafana).
+
+---
+
+### 📈 Professional Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=v0idgy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idgy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
-*Generated with ☕ and passion. For project inquiries, reach out via [v0idgy.link](https://v0idgy.link).*
 
+### 🏆 Certifications & Community
+*   **Lead Technical Trainer:** Delivered 50+ sessions on AI/ML and DevOps.
+*   **Certified Cloud Specialist:** Deep expertise in AWS/GCP architecture.
+*   **Open Source Contributor:** Actively contributing to the MLOps and LLM orchestration ecosystem.
 
+---
 
+### 🤝 Strategic Collaboration
+I assist companies in building their AI strategy from the ground up. If you are looking to scale your engineering team or implement production AI:
 
+<p align="left">
+  <a href="https://v0idgy.link"><img src="https://img.shields.io/badge/Portfolio-v0idgy.link-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/v0idgy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://topmate.io/v0idgy"><img src="https://img.shields.io/badge/Topmate-1:1_Consult-FF5733?style=for-the-badge&logo=topmate&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Success in AI is 10% model architecture and 90% data and infrastructure engineering."</i>
+</p>
