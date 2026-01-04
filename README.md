@@ -42,13 +42,7 @@ Privacy-first RAG implementation running entirely on-premise for enterprise secu
 #### 🛡️ [Kube_Practice](https://github.com/v0idgy/Kube_Practice)
 A curated collection of production-grade Kubernetes manifests, including CI/CD pipelines and monitoring stacks (Prometheus/Grafana).
 
----
 
-### 📈 Professional Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v0idgy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idgy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
