@@ -55,13 +55,6 @@ An interactive dashboard built to analyze high-frequency sales data.
 *   **Generative AI for Educators:** Certified by Parul University
 *   *and 130+ other industry-recognized technical certifications.*
 
----
-
-### 📈 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v0idgy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idgy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
